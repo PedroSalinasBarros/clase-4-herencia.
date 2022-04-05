@@ -11,3 +11,5 @@ my_rectangle.greet()
 
 my_triangle=Triangle(2,3)
 my_triangle.greet()
+print("hola")
+print("hola")
